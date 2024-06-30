@@ -5,6 +5,7 @@ const display = document.querySelector('.display');
 const equalButton = document.querySelector('.equals');
 const calculator = document.querySelector('#calculator'); // Assuming you have an element with id 'calculator'
 
+
 /*-------------------------------- Variables --------------------------------*/
 let firstNumber = '';
 let secondNumber = '';
